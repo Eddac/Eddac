@@ -1,4 +1,4 @@
-- Doutorando em Psicologia Cognitiva/UFPE
+- Doutor em Psicologia Cognitiva/UFPE
 - Psicometria
 
 
